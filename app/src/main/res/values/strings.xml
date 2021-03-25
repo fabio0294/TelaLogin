@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Splash</string>
+    <string name="uniritter">Uniritter</string>
+
+    <string name="usuario">Usuario</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+
+</resources>
