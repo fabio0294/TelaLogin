@@ -24,8 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
-            android:inputType="textPersonName"
-            />
+            android:inputType="textPersonName" />
 
         <TextView
             android:id="@+id/textView2"
@@ -44,9 +43,9 @@
             android:id="@+id/btLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/login"
             android:layout_gravity="center"
-            android:textColor="#ffffff"
-            />
+            android:onClick="abreSecondActivity"
+            android:text="@string/login"
+            android:textColor="#ffffff" />
     </LinearLayout>
 </RelativeLayout>
